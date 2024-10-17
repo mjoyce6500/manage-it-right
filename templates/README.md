@@ -1,3 +1,3 @@
 under construction ...
 
-<img align="right" width="420" height="420" src=".././images/under-construction.png>
+<img align="right" width="420" height="420" src="../images/under-construction.png">
